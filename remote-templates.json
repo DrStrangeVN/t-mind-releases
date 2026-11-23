@@ -1,0 +1,87 @@
+{
+  "description" : "Bộ sưu tập sơ đồ mẫu chuyên sâu cập nhật trực tuyến.",
+  "name" : "Kho mẫu Cộng đồng T-Mind",
+  "templates" : [
+    {
+      "author" : "T-Mind Official",
+      "category" : "Chiến lược",
+      "direction" : "balanced",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/okr_company_annual.tmind",
+      "id" : "remote_okr_company_annual",
+      "keywords" : [
+        "OKR",
+        "KPI",
+        "chiến lược",
+        "mục tiêu"
+      ],
+      "summary" : "Khung lập mục tiêu OKR 3 tầng cho ban lãnh đạo và các phòng ban.",
+      "title" : "OKR Công ty & Kết quả Then chốt (Năm)",
+      "updatedAt" : "2026-11-23"
+    },
+    {
+      "author" : "T-Mind Official",
+      "category" : "Kinh doanh",
+      "direction" : "right",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/saas_gtm_launch.tmind",
+      "id" : "remote_saas_gtm_launch",
+      "keywords" : [
+        "GTM",
+        "launch",
+        "marketing",
+        "ra mắt"
+      ],
+      "summary" : "Lộ trình chuẩn bị thị trường, định vị, truyền thông và phễu chuyển đổi khi ra mắt.",
+      "title" : "Kế hoạch Go-To-Market Ra mắt Sản phẩm",
+      "updatedAt" : "2026-11-23"
+    },
+    {
+      "author" : "T-Mind Official",
+      "category" : "Kỹ thuật",
+      "direction" : "fishbone",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/incident_postmortem_5whys.tmind",
+      "id" : "remote_incident_postmortem_5whys",
+      "keywords" : [
+        "incident",
+        "sự cố",
+        "RCA",
+        "devops",
+        "5 whys"
+      ],
+      "summary" : "Mẫu mổ xẻ nguyên nhân gốc rễ không đổ lỗi kèm hành động khắc phục lâu dài.",
+      "title" : "Phân tích Sự cố (Post-mortem 5 Whys)",
+      "updatedAt" : "2026-11-23"
+    },
+    {
+      "author" : "T-Mind Official",
+      "category" : "Cá nhân",
+      "direction" : "clockwise",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/personal_knowledge_para.tmind",
+      "id" : "remote_para_second_brain",
+      "keywords" : [
+        "PARA",
+        "second brain",
+        "năng suất",
+        "cá nhân"
+      ],
+      "summary" : "Tổ chức toàn bộ công việc, lĩnh vực trách nhiệm, tài nguyên và lưu trữ theo phương pháp P.A.R.A.",
+      "title" : "Hệ thống Tri thức Cá nhân (P.A.R.A)",
+      "updatedAt" : "2026-11-23"
+    },
+    {
+      "author" : "T-Mind Official",
+      "category" : "Kỹ thuật",
+      "direction" : "orgChart",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/architecture_rfc_review.tmind",
+      "id" : "remote_architecture_rfc",
+      "keywords" : [
+        "RFC",
+        "kiến trúc",
+        "system design",
+        "review"
+      ],
+      "summary" : "Cấu trúc chuẩn để đề xuất, phản biện và phê duyệt giải pháp kiến trúc hệ thống.",
+      "title" : "Thiết kế Kiến trúc & Đánh giá RFC",
+      "updatedAt" : "2026-11-23"
+    }
+  ]
+}
