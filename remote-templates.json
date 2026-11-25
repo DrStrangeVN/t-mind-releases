@@ -82,6 +82,57 @@
       "summary" : "Cấu trúc chuẩn để đề xuất, phản biện và phê duyệt giải pháp kiến trúc hệ thống.",
       "title" : "Thiết kế Kiến trúc & Đánh giá RFC",
       "updatedAt" : "2026-11-23"
+    },
+    {
+      "author" : "T-Mind Official",
+      "category" : "Sản phẩm",
+      "direction" : "timelineHorizontal",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/ai_product_roadmap_2026.tmind",
+      "id" : "remote_ai_product_roadmap",
+      "keywords" : [
+        "AI",
+        "MCP",
+        "agent",
+        "roadmap",
+        "evals"
+      ],
+      "summary" : "Khung phát triển tính năng AI, đánh giá chất lượng (Evals), tích hợp MCP và kiểm soát chi phí token.",
+      "title" : "Lộ trình Sản phẩm AI & Agent MCP",
+      "updatedAt" : "2026-11-25"
+    },
+    {
+      "author" : "T-Mind Official",
+      "category" : "Kinh doanh",
+      "direction" : "right",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/b2b_enterprise_sales_playbook.tmind",
+      "id" : "remote_b2b_sales_playbook",
+      "keywords" : [
+        "B2B",
+        "sales",
+        "MEDDPICC",
+        "enterprise",
+        "chốt đơn"
+      ],
+      "summary" : "Quy trình đánh giá cơ hội, thuyết phục người ra quyết định và chốt hợp đồng doanh nghiệp.",
+      "title" : "Cẩm nang Bán hàng B2B Enterprise (MEDDPICC)",
+      "updatedAt" : "2026-11-25"
+    },
+    {
+      "author" : "T-Mind Official",
+      "category" : "Quản trị",
+      "direction" : "quadrant",
+      "downloadURL" : "https://raw.githubusercontent.com/DrStrangeVN/t-mind-releases/main/templates/weekly_ceo_review.tmind",
+      "id" : "remote_weekly_executive_review",
+      "keywords" : [
+        "weekly",
+        "review",
+        "giao ban",
+        "quan tri",
+        "KPI"
+      ],
+      "summary" : "Mẫu họp giao ban 30 phút cuối tuần rà soát KPI, điểm nghẽn và 3 ưu tiên tuần tới.",
+      "title" : "Tổng kết Tuần Điều hành (Weekly Review)",
+      "updatedAt" : "2026-11-25"
     }
   ]
 }
